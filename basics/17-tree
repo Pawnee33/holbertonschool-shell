@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/tree/welcome/to/school
+mkdir -p /tmp/tree/welcome/to/school
