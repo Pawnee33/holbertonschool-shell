@@ -1,2 +1,3 @@
 #!/bin/bash
-rm -rf /tmp/emacs~
+rm -rf /tmp/emacs/~
+rm -r /tmp/emacs/~
